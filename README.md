@@ -1,6 +1,6 @@
 # BuildingBloCS Database Workshop 2024
 
-In this workshop, we’ll explore the fundamentals of databases using SQLite, practice SQL commands, and integrate SQLite into Python.
+In this workshop, we’ll look at the fundamentals of databases using SQLite, practice SQL commands, and integrate SQLite into Python.
 
 By the end of this workshop, you will:
 
@@ -9,7 +9,7 @@ By the end of this workshop, you will:
 - [x] Integrate SQLite into a Python program using `sqlite3`
 - [x] Use DB Browser to visualize and manipulate databases
 
-## Getting ready
+## Getting Ready
 
 Make sure you:
 
@@ -24,7 +24,7 @@ git clone https://github.com/buildingblocs/database-workshop-2024.git
 
 Alternatively, you can download the ZIP file by clicking on the green **Code** button above.
 
-## Downloading
+## Downloading the Tools
 
 You will need to download DB Browser. DB Browser is a GUI tool for working with SQLite databases. It allows you to create, view, and manage databases with ease.
 
@@ -33,7 +33,7 @@ You will also need to download Visual Studio Code (VS Code) for working with Pyt
 👉 [**Download DB Browser here**](https://sqlitebrowser.org/dl/)  
 👉 [**Download VS Code here**](https://code.visualstudio.com/download)
 
-## Setting up
+## Setting Up
 
 Ensure you have **Python 3.x** installed on your system. 👉 [**Download Python**](https://www.python.org/downloads/)
 
@@ -45,6 +45,6 @@ python --version
 
 SQLite is bundled with Python, so no additional installation is required!
 
-### Happy coding! 🎅
+### Happy Coding! 🎅
 
 If you have any questions during the workshop, don’t hesitate to ask our facilitators.
